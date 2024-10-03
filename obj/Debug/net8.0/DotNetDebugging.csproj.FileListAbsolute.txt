@@ -1,0 +1,14 @@
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.deps.json
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.runtimeconfig.json
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.dll
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/bin/Debug/net8.0/DotNetDebugging.pdb
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.AssemblyInfo.cs
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.dll
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/refint/DotNetDebugging.dll
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.pdb
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/DotNetDebugging.genruntimeconfig.cache
+/Users/eric/Desktop/PROJECTS/DotNetDebugging/obj/Debug/net8.0/ref/DotNetDebugging.dll
